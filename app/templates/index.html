@@ -1,7 +1,24 @@
-{% extends "base.html" %}
-{% block content %}
-<h1>Hi, {{ current_user.username }}!</h1>
-{% for post in posts %}
-<div><p>{{ post.author.username }} says: <b>{{ post.body }}</b></p></div>
-{% endfor %}
+{% extends "base.html" %} {% block content %}
+<div class="container rounded shadow-lg">
+    <div class="d-flex justify-content-center align-items-center flex-column">
+        <h1>Hi, {{ current_user.username }}!</h1>
+        <p class="fs-4 d-block text-center">
+            Selamat datang di Microblog milik Syeddinul Faiz Caniggia 🚀
+        </p>
+        <img
+            src="static/foto_profile.jpeg"
+            class="rounded mb-5 img-fluid d-block"
+            width="200"
+            height="200"
+            alt="gambar avatar github"
+        />
+        {% for post in posts %}
+        <div>
+            <p class="text-center">
+                {{ post.author.username }} says: <b>{{ post.body }}</b>
+            </p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
 {% endblock %}
