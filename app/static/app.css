@@ -1,0 +1,43 @@
+body{
+    scroll-behavior: smooth;
+}
+
+.judul{
+    word-break: break-all;
+}
+
+.container{
+    margin: auto;
+
+}
+
+.navbar{
+    background-color: aqua;
+    display: inline-block
+}
+
+.navbar ul {
+    display: inline;
+    list-style-type: none;
+    background-color: #dddddd;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+.navbar ul li {
+    float: right;
+}
+
+.navbar ul li a:hover {
+    background-color: #111;
+}
+
+.navbar ul li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 15px;
+    padding: 8px;
+    background-color: #dddddd;
+}
