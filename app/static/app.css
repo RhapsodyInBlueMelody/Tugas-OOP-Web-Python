@@ -1,0 +1,109 @@
+.carousel-item img {
+    border-radius: 15px; /* Adjust the value for more or less rounding */
+  }
+
+.doto-title {
+	color: #9BEC00 !important;
+  font-family: "Doto", serif !important;
+  font-size: 1.5rem !important;
+  font-optical-sizing: auto;
+  font-style: normal !important;
+  font-variation-settings:
+    "ROND" 0;
+}
+body{
+	color: #9BEC00 !important;
+	font: 1.3rem Inconsolata, monospace !important;
+	text-shadow: 0 0 5px #059212;
+}
+
+
+.navbar-bg{
+	background-color: black;
+}
+
+.navbar-bg a{
+	color: #9BEC00 !important;
+}
+
+section{
+	background-color: black;
+}
+
+
+nav .navbar-nav li a{
+	color: #9BEC00 !important;
+ }
+
+/* static/css/product.css */
+.row-product {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    padding: 20px 0;
+}
+
+.product-card {
+    position: relative;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    background: #ffffff;
+}
+
+.product-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.15);
+}
+
+.product-card img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.product-card:hover img {
+    transform: scale(1.1);
+}
+
+.card-body {
+    padding: 20px;
+    text-align: center;
+}
+
+.card-title {
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.card-text {
+    color: #666;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.btn-buy {
+    background-color: #39FF14;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.btn-buy:hover {
+    background-color: #7DFC00;
+    transform: scale(1.05);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .row-product {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+    }
+}

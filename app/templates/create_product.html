@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+    <h2 class="text-light">Create New Product</h2>
+    
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                <div class="alert alert-{{ category }}">{{ message }}</div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+
+    <form method="POST" action="{{ url_for('create_product') }}" class="bg-dark text-light p-4 rounded">
+        <div class="form-group mb-3">
+            <label for="title">Product Title</label>
+            <input type="text" class="form-control bg-dark text-light border-secondary" id="title" name="title" required>
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="price">Price</label>
+            <input type="number" step="0.01" class="form-control bg-dark text-light border-secondary" id="price" name="price" required>
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="description">Description</label>
+            <textarea class="form-control bg-dark text-light border-secondary" id="description" name="description" required></textarea>
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="category">Category</label>
+            <input type="text" class="form-control bg-dark text-light border-secondary" id="category" name="category" required>
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="image">Image URL</label>
+            <input type="url" class="form-control bg-dark text-light border-secondary" id="image" name="image" required>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-3">Create Product</button>
+    </form>
+</div>
+{% endblock %}

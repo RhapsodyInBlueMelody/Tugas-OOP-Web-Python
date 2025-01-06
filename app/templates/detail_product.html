@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+
+{% block content %}
+{{product['title']}}
+{{product['description']}}
+Price{{"{:,.2f}".format(product['price']*15500)}}
+{% endblock %}

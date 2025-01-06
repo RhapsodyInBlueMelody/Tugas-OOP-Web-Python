@@ -1,0 +1,265 @@
+2024-12-31 10:46:15,093 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-31 10:46:15,093 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 10:46:20,829 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:20] "GET /produk/new HTTP/1.1" 200 -
+2024-12-31 10:46:20,899 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:20] "[33mGET /produk/static/app.css HTTP/1.1[0m" 404 -
+2024-12-31 10:46:21,787 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:21] "GET / HTTP/1.1" 200 -
+2024-12-31 10:46:21,905 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:21] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2024-12-31 10:46:21,939 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:21] "[36mGET /static/retro1.png HTTP/1.1[0m" 304 -
+2024-12-31 10:46:21,940 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:21] "[36mGET /static/retro2.png HTTP/1.1[0m" 304 -
+2024-12-31 10:46:21,943 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:21] "[36mGET /static/retro3.png HTTP/1.1[0m" 304 -
+2024-12-31 10:46:21,947 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:21] "[36mGET /static/retro_Computer.png HTTP/1.1[0m" 304 -
+2024-12-31 10:46:21,948 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:21] "[36mGET /static/retro_console.png HTTP/1.1[0m" 304 -
+2024-12-31 10:46:21,948 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:21] "[36mGET /static/retro_gadgets.png HTTP/1.1[0m" 304 -
+2024-12-31 10:46:24,411 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:24] "GET / HTTP/1.1" 200 -
+2024-12-31 10:46:24,617 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:24] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2024-12-31 10:46:24,650 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:24] "[36mGET /static/retro1.png HTTP/1.1[0m" 304 -
+2024-12-31 10:46:24,652 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:24] "[36mGET /static/retro2.png HTTP/1.1[0m" 304 -
+2024-12-31 10:46:24,655 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:24] "[36mGET /static/retro_console.png HTTP/1.1[0m" 304 -
+2024-12-31 10:46:24,657 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:24] "[36mGET /static/retro3.png HTTP/1.1[0m" 304 -
+2024-12-31 10:46:24,660 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:24] "[36mGET /static/retro_Computer.png HTTP/1.1[0m" 304 -
+2024-12-31 10:46:24,660 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:24] "[36mGET /static/retro_gadgets.png HTTP/1.1[0m" 304 -
+2024-12-31 10:46:27,004 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:27] "GET /produk/new HTTP/1.1" 200 -
+2024-12-31 10:46:27,106 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:46:27] "[33mGET /produk/static/app.css HTTP/1.1[0m" 404 -
+2024-12-31 10:47:06,292 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:47:06] "[32mPOST /produk/new HTTP/1.1[0m" 302 -
+2024-12-31 10:47:06,315 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:47:06] "GET /produk/new HTTP/1.1" 200 -
+2024-12-31 10:47:06,506 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:47:06] "[33mGET /produk/static/app.css HTTP/1.1[0m" 404 -
+2024-12-31 10:47:06,619 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:47:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-31 10:48:16,678 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-31 10:48:16,678 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 10:48:18,193 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:18] "GET /produk/new HTTP/1.1" 200 -
+2024-12-31 10:48:18,365 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:18] "[33mGET /produk/static/app.css HTTP/1.1[0m" 404 -
+2024-12-31 10:48:19,440 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "GET /kategori HTTP/1.1" 200 -
+2024-12-31 10:48:19,731 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2024-12-31 10:48:19,743 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "[36mGET /static/cat_computer.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:19,747 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "[36mGET /static/cat_console.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:19,748 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "[36mGET /static/cat_videogame.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:19,752 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "[36mGET /static/cat_tv.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:19,755 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "[36mGET /static/cat_cellphone.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:19,757 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "[36mGET /static/cat_cassette.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:19,761 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "[36mGET /static/cat_arcade.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:19,762 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "[36mGET /static/cat_camera.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:19,763 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "[36mGET /static/cat_vhs.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:19,765 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "[36mGET /static/cat_walkman.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:19,876 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:19] "GET /static/cat_radio.png HTTP/1.1" 200 -
+2024-12-31 10:48:20,108 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "GET /kategori HTTP/1.1" 200 -
+2024-12-31 10:48:20,277 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2024-12-31 10:48:20,328 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "[36mGET /static/cat_computer.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:20,331 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "[36mGET /static/cat_videogame.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:20,332 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "[36mGET /static/cat_console.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:20,334 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "[36mGET /static/cat_radio.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:20,335 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "[36mGET /static/cat_cellphone.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:20,337 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "[36mGET /static/cat_tv.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:20,340 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "[36mGET /static/cat_cassette.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:20,343 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "[36mGET /static/cat_arcade.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:20,345 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "[36mGET /static/cat_camera.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:20,347 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "[36mGET /static/cat_vhs.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:20,349 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:20] "[36mGET /static/cat_walkman.png HTTP/1.1[0m" 304 -
+2024-12-31 10:48:21,918 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2024-12-31 10:48:21,922 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:21] "GET /produk HTTP/1.1" 200 -
+2024-12-31 10:48:22,962 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:22] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2024-12-31 10:48:28,883 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:28] "GET /produk/new HTTP/1.1" 200 -
+2024-12-31 10:48:29,080 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:48:29] "[33mGET /produk/static/app.css HTTP/1.1[0m" 404 -
+2024-12-31 10:49:06,051 - httpx - INFO - HTTP Request: POST https://fakestoreapi.com/products "HTTP/1.1 200 OK"
+2024-12-31 10:49:06,056 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:49:06] "[32mPOST /produk/new HTTP/1.1[0m" 302 -
+2024-12-31 10:49:06,532 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2024-12-31 10:49:06,538 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:49:06] "GET /produk HTTP/1.1" 200 -
+2024-12-31 10:49:06,760 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 10:49:06] "GET /static/app.css HTTP/1.1" 200 -
+2025-01-06 10:16:44,479 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-06 10:16:44,511 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-06 10:16:57,697 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-06 10:16:57,697 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-06 10:17:23,114 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:23] "GET / HTTP/1.1" 200 -
+2025-01-06 10:17:23,327 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:23] "GET /static/app.css HTTP/1.1" 200 -
+2025-01-06 10:17:23,428 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:23] "GET /static/retro3.png HTTP/1.1" 200 -
+2025-01-06 10:17:23,435 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:23] "GET /static/retro2.png HTTP/1.1" 200 -
+2025-01-06 10:17:23,448 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:23] "GET /static/retro_Computer.png HTTP/1.1" 200 -
+2025-01-06 10:17:23,459 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:23] "GET /static/retro_console.png HTTP/1.1" 200 -
+2025-01-06 10:17:23,460 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:23] "GET /static/retro_gadgets.png HTTP/1.1" 200 -
+2025-01-06 10:17:23,469 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:23] "GET /static/retro1.png HTTP/1.1" 200 -
+2025-01-06 10:17:23,637 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-06 10:17:28,690 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:28] "GET /produk/new HTTP/1.1" 200 -
+2025-01-06 10:17:28,771 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:28] "[33mGET /produk/static/app.css HTTP/1.1[0m" 404 -
+2025-01-06 10:17:31,442 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:31] "GET / HTTP/1.1" 200 -
+2025-01-06 10:17:31,658 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:31] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:17:31,691 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:31] "[36mGET /static/retro2.png HTTP/1.1[0m" 304 -
+2025-01-06 10:17:31,692 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:31] "[36mGET /static/retro1.png HTTP/1.1[0m" 304 -
+2025-01-06 10:17:31,693 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:31] "[36mGET /static/retro3.png HTTP/1.1[0m" 304 -
+2025-01-06 10:17:31,696 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:31] "[36mGET /static/retro_console.png HTTP/1.1[0m" 304 -
+2025-01-06 10:17:31,697 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:31] "[36mGET /static/retro_Computer.png HTTP/1.1[0m" 304 -
+2025-01-06 10:17:31,699 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:31] "[36mGET /static/retro_gadgets.png HTTP/1.1[0m" 304 -
+2025-01-06 10:17:34,862 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:34] "GET /kategori HTTP/1.1" 200 -
+2025-01-06 10:17:34,978 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:34] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:17:35,009 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:35] "GET /static/cat_videogame.png HTTP/1.1" 200 -
+2025-01-06 10:17:35,020 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:35] "GET /static/cat_computer.png HTTP/1.1" 200 -
+2025-01-06 10:17:35,055 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:35] "GET /static/cat_console.png HTTP/1.1" 200 -
+2025-01-06 10:17:35,087 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:35] "GET /static/cat_tv.png HTTP/1.1" 200 -
+2025-01-06 10:17:35,104 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:35] "GET /static/cat_arcade.png HTTP/1.1" 200 -
+2025-01-06 10:17:35,112 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:35] "GET /static/cat_radio.png HTTP/1.1" 200 -
+2025-01-06 10:17:35,113 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:35] "GET /static/cat_cellphone.png HTTP/1.1" 200 -
+2025-01-06 10:17:35,114 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:35] "GET /static/cat_vhs.png HTTP/1.1" 200 -
+2025-01-06 10:17:35,141 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:35] "GET /static/cat_cassette.png HTTP/1.1" 200 -
+2025-01-06 10:17:35,146 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:35] "GET /static/cat_camera.png HTTP/1.1" 200 -
+2025-01-06 10:17:35,172 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:35] "GET /static/cat_walkman.png HTTP/1.1" 200 -
+2025-01-06 10:17:46,547 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:17:46,583 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:46] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:17:46,694 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:17:46] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:18:00,403 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:00] "GET /contact HTTP/1.1" 200 -
+2025-01-06 10:18:00,484 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:00] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:18:04,597 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "GET /kategori HTTP/1.1" 200 -
+2025-01-06 10:18:04,682 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:18:04,728 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "[36mGET /static/cat_computer.png HTTP/1.1[0m" 304 -
+2025-01-06 10:18:04,729 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "[36mGET /static/cat_console.png HTTP/1.1[0m" 304 -
+2025-01-06 10:18:04,731 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "[36mGET /static/cat_tv.png HTTP/1.1[0m" 304 -
+2025-01-06 10:18:04,732 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "[36mGET /static/cat_videogame.png HTTP/1.1[0m" 304 -
+2025-01-06 10:18:04,734 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "[36mGET /static/cat_radio.png HTTP/1.1[0m" 304 -
+2025-01-06 10:18:04,736 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "[36mGET /static/cat_cellphone.png HTTP/1.1[0m" 304 -
+2025-01-06 10:18:04,740 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "[36mGET /static/cat_arcade.png HTTP/1.1[0m" 304 -
+2025-01-06 10:18:04,741 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "[36mGET /static/cat_cassette.png HTTP/1.1[0m" 304 -
+2025-01-06 10:18:04,742 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "[36mGET /static/cat_vhs.png HTTP/1.1[0m" 304 -
+2025-01-06 10:18:04,743 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "[36mGET /static/cat_camera.png HTTP/1.1[0m" 304 -
+2025-01-06 10:18:04,746 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:18:04] "[36mGET /static/cat_walkman.png HTTP/1.1[0m" 304 -
+2025-01-06 10:30:09,366 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:30:09,374 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:30:09] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:30:09,521 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:30:09] "GET /static/app.css HTTP/1.1" 200 -
+2025-01-06 10:32:34,773 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:32:34,778 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:32:34] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:32:34,850 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:32:34] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:33:05,471 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-06 10:33:05,471 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-06 10:33:08,875 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:33:08,908 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:08] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:33:09,014 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:09] "GET /static/app.css HTTP/1.1" 200 -
+2025-01-06 10:33:15,440 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:15] "GET / HTTP/1.1" 200 -
+2025-01-06 10:33:15,528 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:15] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:33:15,538 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:15] "[36mGET /static/retro1.png HTTP/1.1[0m" 304 -
+2025-01-06 10:33:15,540 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:15] "[36mGET /static/retro2.png HTTP/1.1[0m" 304 -
+2025-01-06 10:33:15,543 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:15] "[36mGET /static/retro_console.png HTTP/1.1[0m" 304 -
+2025-01-06 10:33:15,544 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:15] "[36mGET /static/retro3.png HTTP/1.1[0m" 304 -
+2025-01-06 10:33:15,547 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:15] "[36mGET /static/retro_Computer.png HTTP/1.1[0m" 304 -
+2025-01-06 10:33:15,548 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:15] "[36mGET /static/retro_gadgets.png HTTP/1.1[0m" 304 -
+2025-01-06 10:33:32,222 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:33:32,230 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:32] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:33:32,441 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:32] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:33:46,032 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:46] "GET / HTTP/1.1" 200 -
+2025-01-06 10:33:46,192 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:46] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:33:46,247 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:46] "[36mGET /static/retro1.png HTTP/1.1[0m" 304 -
+2025-01-06 10:33:46,248 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:46] "[36mGET /static/retro3.png HTTP/1.1[0m" 304 -
+2025-01-06 10:33:46,249 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:46] "[36mGET /static/retro2.png HTTP/1.1[0m" 304 -
+2025-01-06 10:33:46,251 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:46] "[36mGET /static/retro_console.png HTTP/1.1[0m" 304 -
+2025-01-06 10:33:46,252 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:46] "[36mGET /static/retro_Computer.png HTTP/1.1[0m" 304 -
+2025-01-06 10:33:46,254 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:46] "[36mGET /static/retro_gadgets.png HTTP/1.1[0m" 304 -
+2025-01-06 10:33:52,816 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:52] "GET /contact HTTP/1.1" 200 -
+2025-01-06 10:33:52,948 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:33:52] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:34:00,073 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:34:00,077 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:34:00] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:34:00,245 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:34:00] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:34:13,932 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:34:13] "GET / HTTP/1.1" 200 -
+2025-01-06 10:34:14,093 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:34:14] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:34:14,166 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:34:14] "[36mGET /static/retro1.png HTTP/1.1[0m" 304 -
+2025-01-06 10:34:14,167 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:34:14] "[36mGET /static/retro3.png HTTP/1.1[0m" 304 -
+2025-01-06 10:34:14,168 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:34:14] "[36mGET /static/retro2.png HTTP/1.1[0m" 304 -
+2025-01-06 10:34:14,171 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:34:14] "[36mGET /static/retro_console.png HTTP/1.1[0m" 304 -
+2025-01-06 10:34:14,172 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:34:14] "[36mGET /static/retro_Computer.png HTTP/1.1[0m" 304 -
+2025-01-06 10:34:14,174 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:34:14] "[36mGET /static/retro_gadgets.png HTTP/1.1[0m" 304 -
+2025-01-06 10:36:42,841 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:36:42,846 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:36:42] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:36:43,058 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:36:43] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:39:05,945 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:39:05,948 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:05] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:39:06,078 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:06] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:39:11,475 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:39:11,482 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:11] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:39:11,591 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:11] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:39:18,521 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-06 10:39:18,521 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-06 10:39:21,204 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:39:21,225 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:21] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:39:21,326 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:21] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:39:30,942 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:30] "GET /kategori HTTP/1.1" 200 -
+2025-01-06 10:39:31,052 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:31] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:39:31,057 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:31] "[36mGET /static/cat_videogame.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:31,059 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:31] "[36mGET /static/cat_computer.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:31,061 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:31] "[36mGET /static/cat_console.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:31,062 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:31] "[36mGET /static/cat_tv.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:31,064 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:31] "[36mGET /static/cat_radio.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:31,066 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:31] "[36mGET /static/cat_cellphone.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:31,068 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:31] "[36mGET /static/cat_cassette.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:31,071 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:31] "[36mGET /static/cat_vhs.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:31,071 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:31] "[36mGET /static/cat_arcade.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:31,074 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:31] "[36mGET /static/cat_walkman.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:31,075 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:31] "[36mGET /static/cat_camera.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:32,467 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:39:32,470 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:32] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:39:33,448 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:33] "GET /static/app.css HTTP/1.1" 200 -
+2025-01-06 10:39:44,058 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "GET /kategori HTTP/1.1" 200 -
+2025-01-06 10:39:44,150 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:39:44,181 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "[36mGET /static/cat_computer.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:44,183 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "[36mGET /static/cat_videogame.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:44,184 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "[36mGET /static/cat_console.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:44,187 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "[36mGET /static/cat_radio.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:44,188 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "[36mGET /static/cat_tv.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:44,191 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "[36mGET /static/cat_cellphone.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:44,193 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "[36mGET /static/cat_cassette.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:44,195 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "[36mGET /static/cat_vhs.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:44,195 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "[36mGET /static/cat_arcade.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:44,199 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "[36mGET /static/cat_walkman.png HTTP/1.1[0m" 304 -
+2025-01-06 10:39:44,200 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:39:44] "[36mGET /static/cat_camera.png HTTP/1.1[0m" 304 -
+2025-01-06 10:40:01,755 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:40:01,760 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:40:01] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:40:01,853 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:40:01] "GET /static/app.css HTTP/1.1" 200 -
+2025-01-06 10:43:47,729 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-06 10:43:47,730 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-06 10:43:53,980 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:43:54,011 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:43:54] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:43:54,080 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:43:54] "GET /static/app.css HTTP/1.1" 200 -
+2025-01-06 10:43:59,428 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:43:59,432 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:43:59] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:43:59,515 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:43:59] "GET /static/app.css HTTP/1.1" 200 -
+2025-01-06 10:46:09,273 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:46:09,281 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:46:09] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:46:09,359 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:46:09] "GET /static/app.css HTTP/1.1" 200 -
+2025-01-06 10:47:22,278 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:22] "GET / HTTP/1.1" 200 -
+2025-01-06 10:47:22,414 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:22] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:47:22,419 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:22] "[36mGET /static/retro_console.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:22,420 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:22] "[36mGET /static/retro2.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:22,422 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:22] "[36mGET /static/retro3.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:22,422 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:22] "[36mGET /static/retro1.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:22,424 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:22] "[36mGET /static/retro_Computer.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:22,426 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:22] "[36mGET /static/retro_gadgets.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:31,296 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:47:31,302 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:31] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:47:31,446 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:31] "GET /static/app.css HTTP/1.1" 200 -
+2025-01-06 10:47:31,981 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:31] "GET /kategori HTTP/1.1" 200 -
+2025-01-06 10:47:32,063 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:47:32,098 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[36mGET /static/cat_computer.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:32,101 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[36mGET /static/cat_tv.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:32,102 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[36mGET /static/cat_console.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:32,105 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[36mGET /static/cat_cellphone.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:32,108 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[36mGET /static/cat_radio.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:32,109 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[36mGET /static/cat_videogame.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:32,110 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[36mGET /static/cat_cassette.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:32,114 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[36mGET /static/cat_vhs.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:32,114 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[36mGET /static/cat_arcade.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:32,116 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[36mGET /static/cat_camera.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:32,118 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[36mGET /static/cat_walkman.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:32,169 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-06 10:47:36,723 - httpx - INFO - HTTP Request: GET https://fakestoreapi.com/products/category/electronics "HTTP/1.1 200 OK"
+2025-01-06 10:47:36,729 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:36] "GET /produk HTTP/1.1" 200 -
+2025-01-06 10:47:36,847 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:36] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:47:37,889 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:37] "GET /contact HTTP/1.1" 200 -
+2025-01-06 10:47:37,955 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:37] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:47:44,785 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:44] "GET / HTTP/1.1" 200 -
+2025-01-06 10:47:44,964 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:44] "[36mGET /static/app.css HTTP/1.1[0m" 304 -
+2025-01-06 10:47:44,987 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:44] "[36mGET /static/retro1.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:44,989 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:44] "[36mGET /static/retro2.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:44,994 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:44] "[36mGET /static/retro3.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:44,997 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:44] "[36mGET /static/retro_console.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:44,999 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:44] "[36mGET /static/retro_gadgets.png HTTP/1.1[0m" 304 -
+2025-01-06 10:47:45,000 - werkzeug - INFO - 127.0.0.1 - - [06/Jan/2025 10:47:45] "[36mGET /static/retro_Computer.png HTTP/1.1[0m" 304 -
